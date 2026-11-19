@@ -1,0 +1,120 @@
+# EncodeAll
+
+> Free online hash, encoding, decoding, formatting and developer tools. Every tool runs locally in the browser; input is never uploaded.
+
+## Tools
+
+- [Base32 Decode](https://encodeall.github.io/base32_decode.html): This Base32 decode online tool helps you decode Base32 string to original text. Free, fast and private: runs in your browser.
+- [Decode Base32 to File](https://encodeall.github.io/base32_decode_file.html): This Base32 to file online tool helps you decode Base32 string to file and download. Free, fast and private: runs in your browser.
+- [Base32 Encode](https://encodeall.github.io/base32_encode.html): This Base32 encode online tool helps you encode text or binary to Base32. You can input UTF-8, UTF-16, Hex to Base32. Free, fast and private: runs in your browser.
+- [Encode File to Base32](https://encodeall.github.io/base32_encode_file.html): This file to Base32 online tool helps you encode local or remote file to Base32 string to without uploading file. Free, fast and private: runs in your browser.
+- [Base58 Decode](https://encodeall.github.io/base58_decode.html): This Base58 decode online tool helps you decode Base58 string to original text. Free, fast and private: runs in your browser.
+- [Decode Base58 to File](https://encodeall.github.io/base58_decode_file.html): This Base58 to file online tool helps you decode Base58 string to file and download. Free, fast and private: runs in your browser.
+- [Base58 Encode](https://encodeall.github.io/base58_encode.html): This Base58 encode online tool helps you encode text or binary to Base58. You can input UTF-8, UTF-16, Hex to Base58. Free, fast and private: runs in your browser.
+- [Encode File to Base58](https://encodeall.github.io/base58_encode_file.html): This file to Base58 online tool helps you encode local or remote file to Base58 string to without uploading file. Free, fast and private: runs in your browser.
+- [Base64 Decode](https://encodeall.github.io/base64_decode.html): This Base64 decode online tool helps you decode Base64 string to original text. Free, fast and private: runs in your browser.
+- [Decode Base64 to File](https://encodeall.github.io/base64_decode_file.html): This Base64 to file online tool helps you decode Base64 string to file and download. Free, fast and private: runs in your browser.
+- [Base64 Encode](https://encodeall.github.io/base64_encode.html): This Base64 encode online tool helps you encode text or binary to Base64. You can input UTF-8, UTF-16, Hex to Base64. Free, fast and private: runs in your browser.
+- [Encode File to Base64](https://encodeall.github.io/base64_encode_file.html): This file to Base64 online tool helps you encode local or remote file to Base64 string to without uploading file. Free, fast and private: runs in your browser.
+- [BLAKE2b](https://encodeall.github.io/blake2b/): This BLAKE2b online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings.
+- [BLAKE2b File Hash](https://encodeall.github.io/blake2b/file/): This BLAKE2b online tool helps you calculate the hash of a file from local or URL using BLAKE2b without uploading the file.
+- [BLAKE2s](https://encodeall.github.io/blake2s/): This BLAKE2s online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings.
+- [BLAKE2s File Hash](https://encodeall.github.io/blake2s/file/): This BLAKE2s online tool helps you calculate the hash of a file from local or URL using BLAKE2b without uploading the file.
+- [BLAKE3](https://encodeall.github.io/blake3/): This BLAKE3 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings.
+- [BLAKE3 File Hash](https://encodeall.github.io/blake3/file/): This BLAKE3 online tool helps you calculate the hash of a file from local or URL using BLAKE2b without uploading the file.
+- [Constant Case Converter](https://encodeall.github.io/convert_constant_case.html): Convert string to constant case. (Screaming snake case, MACRO_CASE) Free, fast and private: runs in your browser.
+- [Kebab Case Converter](https://encodeall.github.io/convert_kebab_case.html): Convert string to kebab case. (Dash case, Lisp case, Spinal case) Free, fast and private: runs in your browser.
+- [Lower Camel Case Converter](https://encodeall.github.io/convert_lower_camel_case.html): Convert string to lower camel case (Dromedary case). Free, fast and private: runs in your browser.
+- [Lower Case Converter](https://encodeall.github.io/convert_lower_case.html): Convert string to lower case. (Downcase) Free, fast and private: runs in your browser.
+- [Snake Case Converter](https://encodeall.github.io/convert_snake_case.html): Convert string to snake case. (Snail case, Pothole case) Free, fast and private: runs in your browser.
+- [Upper Camel Case Converter](https://encodeall.github.io/convert_upper_camel_case.html): Convert string to upper camel case (Pascal case). Free, fast and private: runs in your browser.
+- [Upper Case Converter](https://encodeall.github.io/convert_upper_case.html): Convert string to upper case. (Upcase, All caps) Free, fast and private: runs in your browser.
+- [CRC-16](https://encodeall.github.io/crc16.html): This CRC-16 online tool helps you calculate checksum from string or binary. You can input UTF-8, UTF-16, Hex to CRC-16. Free, fast and private: runs in your browser.
+- [CRC-16 File Checksum](https://encodeall.github.io/crc16_checksum.html): This CRC-16 online tool helps you calculate local or remote file checksum without uploading file. Free, fast and private: runs in your browser.
+- [CRC-32](https://encodeall.github.io/crc32.html): This CRC-32 online tool helps you calculate checksum from string or binary. You can input UTF-8, UTF-16, Hex to CRC-32. Free, fast and private: runs in your browser.
+- [CRC-32 File Checksum](https://encodeall.github.io/crc32_checksum.html): This CRC-32 online tool helps you calculate local or remote file checksum without uploading file. Free, fast and private: runs in your browser.
+- [cSHAKE128](https://encodeall.github.io/cshake128.html): This cSHAKE128 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to cSHAKE128.
+- [cSHAKE128 File Hash](https://encodeall.github.io/cshake128_file_hash.html): This cSHAKE128 online tool helps you calculate local or remote file hash by cSHAKE128 without uploading file. Free, fast and private: runs in your browser.
+- [cSHAKE256](https://encodeall.github.io/cshake256.html): This cSHAKE256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to cSHAKE256.
+- [cSHAKE256 File Hash](https://encodeall.github.io/cshake256_file_hash.html): This cSHAKE256 online tool helps you calculate local or remote file hash by cSHAKE256 without uploading file. Free, fast and private: runs in your browser.
+- [Double SHA256](https://encodeall.github.io/double_sha256.html): This double SHA256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to CRC-16.
+- [ECDSA Sign Message](https://encodeall.github.io/ecdsa_sign.html): This online tool helps you sign message by ECDSA. Free, fast and private: runs in your browser.
+- [ECDSA Verify Signature](https://encodeall.github.io/ecdsa_verify.html): This online tool helps you verify signature by ECDSA. Free, fast and private: runs in your browser.
+- [Decode Hex (Base16) to String](https://encodeall.github.io/hex_decode.html): This hex (base16) decode online tool helps you decode hex to text. Free, fast and private: runs in your browser.
+- [Decode Hex (Base16) to File](https://encodeall.github.io/hex_decode_file.html): This hex (base16) to file online tool helps you decode hex string to file and download. Free, fast and private: runs in your browser.
+- [Encode String to Hex (Base16)](https://encodeall.github.io/hex_encode.html): This hex (base16) encode online tool helps you encode string to hex. You can input UTF-8, UTF-16 and others to hex. Free, fast and private: runs in your browser.
+- [Encode File to Hex (Base16)](https://encodeall.github.io/hex_encode_file.html): This file to hex (base16) online tool helps you encode local or remote file to hex string to without uploading file. Free, fast and private: runs in your browser.
+- [HTML Decode / Unescape](https://encodeall.github.io/html_decode.html): This HTML decode online tool helps you decode entities encoding string to HTML. Free, fast and private: runs in your browser.
+- [HTML Encode / Escape](https://encodeall.github.io/html_encode.html): This HTML encode online tool helps you encode HTML to entities encoding string. Free, fast and private: runs in your browser.
+- [JSON Formatter](https://encodeall.github.io/json/formatter/): This free online JSON formatter helps you beautify your JSON string and make it more readable. You can choose the indentation level and characters.
+- [JSON Minifier](https://encodeall.github.io/json/minifier/): This free online JSON minifier helps you minify your JSON string and make it more cleaner. It can remove indentation and new lines to reduce size and make it one line.
+- [JSON Viewer](https://encodeall.github.io/json/viewer/): This JSON Viewer online tool helps you view JSON object in a readable way. Free, fast and private: runs in your browser.
+- [JWT Decoder](https://encodeall.github.io/jwt_decoder.html): Decode JSON Web Tokens to see the header, payload and expiry dates instantly. Private: your token is decoded in your browser and never uploaded.
+- [Keccak-224](https://encodeall.github.io/keccak_224.html): This Keccak-224 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to Keccak-224.
+- [Keccak-224 File Hash](https://encodeall.github.io/keccak_224_checksum.html): This Keccak-224 online tool helps you calculate local or remote file hash by Keccak-224 without uploading file. Free, fast and private: runs in your browser.
+- [Keccak-256](https://encodeall.github.io/keccak_256.html): This Keccak-256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to Keccak-256.
+- [Keccak-256 File Hash](https://encodeall.github.io/keccak_256_checksum.html): This Keccak-256 online tool helps you calculate local or remote file hash by Keccak-256 without uploading file. Free, fast and private: runs in your browser.
+- [Keccak-384](https://encodeall.github.io/keccak_384.html): This Keccak-384 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to Keccak-384.
+- [Keccak-384 File Hash](https://encodeall.github.io/keccak_384_checksum.html): This Keccak-384 online tool helps you calculate local or remote file hash by Keccak-384 without uploading file. Free, fast and private: runs in your browser.
+- [Keccak-512](https://encodeall.github.io/keccak_512.html): This Keccak-512 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to Keccak-512.
+- [Keccak-512 File Hash](https://encodeall.github.io/keccak_512_checksum.html): This Keccak-512 online tool helps you calculate local or remote file hash by Keccak-512 without uploading file. Free, fast and private: runs in your browser.
+- [KMAC128](https://encodeall.github.io/kmac128.html): This KMAC128 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to KMAC128. Free, fast and private: runs in your browser.
+- [KMAC128 File Hash](https://encodeall.github.io/kmac128_file_hash.html): This KMAC128 online tool helps you calculate local or remote file hash by KMAC128 without uploading file. Free, fast and private: runs in your browser.
+- [KMAC256](https://encodeall.github.io/kmac256.html): This KMAC256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to KMAC256. Free, fast and private: runs in your browser.
+- [KMAC256 File Hash](https://encodeall.github.io/kmac256_file_hash.html): This KMAC256 online tool helps you calculate local or remote file hash by KMAC256 without uploading file. Free, fast and private: runs in your browser.
+- [Lorem Ipsum Generator](https://encodeall.github.io/lorem_ipsum_generator.html): Generate Lorem Ipsum placeholder text by paragraphs, sentences or words, with optional HTML tags. Free and instant. Free, fast and private: runs in your browser.
+- [MD2](https://encodeall.github.io/md2.html): This MD2 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to MD2. It also supports HMAC.
+- [MD2 File Hash](https://encodeall.github.io/md2_file_hash.html): This MD2 online tool helps you calculate local or remote file hash by MD2 without uploading file. It also supports HMAC.
+- [MD4](https://encodeall.github.io/md4.html): This MD4 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to MD4. It also supports HMAC.
+- [MD4 File Hash](https://encodeall.github.io/md4_file_hash.html): This MD4 online tool helps you calculate local or remote file hash by MD4 without uploading file. It also supports HMAC.
+- [MD5](https://encodeall.github.io/md5.html): This MD5 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to MD5. It also supports HMAC.
+- [MD5 File Checksum](https://encodeall.github.io/md5_checksum.html): This MD5 online tool helps you calculate local or remote file hash by MD5 without uploading file. It also supports HMAC.
+- [Password Generator](https://encodeall.github.io/password_generator.html): Create strong, random passwords with custom length, symbols and numbers using cryptographically secure randomness. Nothing leaves your browser.
+- [QR Code Generator](https://encodeall.github.io/qr-code/generator/): This online QR code tool can help you generate a QR code and design its style. You can download an image, share a link, or use an embedded script.
+- [RIPEMD-128](https://encodeall.github.io/ripemd-128/): This RIPEMD-128 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings. It also supports HMAC.
+- [RIPEMD-128 File Hash](https://encodeall.github.io/ripemd-128/file/): This RIPEMD-128 online tool helps you calculate the hash of a file from local or URL using RIPEMD-128 without uploading the file. It also supports HMAC.
+- [RIPEMD-160](https://encodeall.github.io/ripemd-160/): This RIPEMD-160 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings. It also supports HMAC.
+- [RIPEMD-160 File Hash](https://encodeall.github.io/ripemd-160/file/): This RIPEMD-160 online tool helps you calculate the hash of a file from local or URL using RIPEMD-160 without uploading the file. It also supports HMAC.
+- [RIPEMD-256](https://encodeall.github.io/ripemd-256/): This RIPEMD-256 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings. It also supports HMAC.
+- [RIPEMD-256 File Hash](https://encodeall.github.io/ripemd-256/file/): This RIPEMD-256 online tool helps you calculate the hash of a file from local or URL using RIPEMD-256 without uploading the file. It also supports HMAC.
+- [RIPEMD-320](https://encodeall.github.io/ripemd-320/): This RIPEMD-320 online tool helps you calculate hashes from strings. You can input UTF-8, UTF-16, Hex, Base64, or other encodings. It also supports HMAC.
+- [RIPEMD-320 File Hash](https://encodeall.github.io/ripemd-320/file/): This RIPEMD-320 online tool helps you calculate the hash of a file from local or URL using RIPEMD-320 without uploading the file. It also supports HMAC.
+- [SHA1](https://encodeall.github.io/sha1.html): This SHA1 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA1. It also supports HMAC.
+- [SHA1 File Checksum](https://encodeall.github.io/sha1_checksum.html): This SHA1 online tool helps you calculate local or remote file hash by SHA1 without uploading file. It also supports HMAC.
+- [SHA224](https://encodeall.github.io/sha224.html): This SHA224 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA224. It also supports HMAC.
+- [SHA224 File Hash](https://encodeall.github.io/sha224_checksum.html): This SHA224 online tool helps you calculate local or remote file hash by SHA224 without uploading file. It also supports HMAC.
+- [SHA256](https://encodeall.github.io/sha256.html): This SHA256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA256. It also supports HMAC.
+- [SHA256 File Checksum](https://encodeall.github.io/sha256_checksum.html): This SHA256 online tool helps you calculate local or remote file hash by SHA256 without uploading file. It also supports HMAC.
+- [SHA384](https://encodeall.github.io/sha384.html): This SHA384 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA384. It also supports HMAC.
+- [SHA384 File Hash](https://encodeall.github.io/sha384_file_hash.html): This SHA384 online tool helps you calculate local or remote file hash by SHA384 without uploading file. It also supports HMAC.
+- [SHA3-224](https://encodeall.github.io/sha3_224.html): This SHA3-224 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA3-224. Free, fast and private: runs in your browser.
+- [SHA3-224 File Hash](https://encodeall.github.io/sha3_224_checksum.html): This SHA3-224 online tool helps you calculate local or remote file hash by SHA3-224 without uploading file. Free, fast and private: runs in your browser.
+- [SHA3-256](https://encodeall.github.io/sha3_256.html): This SHA3-256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA3-256. Free, fast and private: runs in your browser.
+- [SHA3-256 File Hash](https://encodeall.github.io/sha3_256_checksum.html): This SHA3-256 online tool helps you calculate local or remote file hash by SHA3-256 without uploading file. Free, fast and private: runs in your browser.
+- [SHA3-384](https://encodeall.github.io/sha3_384.html): This SHA3-384 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA3-384. Free, fast and private: runs in your browser.
+- [SHA3-384 File Hash](https://encodeall.github.io/sha3_384_checksum.html): This SHA3-384 online tool helps you calculate local or remote file hash by SHA3-384 without uploading file. Free, fast and private: runs in your browser.
+- [SHA3-512](https://encodeall.github.io/sha3_512.html): This SHA3-512 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA3-512. Free, fast and private: runs in your browser.
+- [SHA3-512 File Hash](https://encodeall.github.io/sha3_512_checksum.html): This SHA3-512 online tool helps you calculate local or remote file hash by SHA3-512 without uploading file. Free, fast and private: runs in your browser.
+- [SHA512](https://encodeall.github.io/sha512.html): This SHA512 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA512. It also supports HMAC.
+- [SHA512/224](https://encodeall.github.io/sha512_224.html): This SHA512/224 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA512/224. It also supports HMAC.
+- [SHA512/224 File Hash](https://encodeall.github.io/sha512_224_file_hash.html): This SHA512/224 online tool helps you calculate local or remote file hash by SHA512/224 without uploading file. It also supports HMAC.
+- [SHA512/256](https://encodeall.github.io/sha512_256.html): This SHA512/256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHA512/256. It also supports HMAC.
+- [SHA512/256 File Hash](https://encodeall.github.io/sha512_256_file_hash.html): This SHA512/256 online tool helps you calculate local or remote file hash by SHA512/256 without uploading file. It also supports HMAC.
+- [SHA512 File Hash](https://encodeall.github.io/sha512_file_hash.html): This SHA512 online tool helps you calculate local or remote file hash by SHA512 without uploading file. It also supports HMAC.
+- [SHAKE128](https://encodeall.github.io/shake_128.html): This SHAKE128 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHAKE128. Free, fast and private: runs in your browser.
+- [SHAKE128 File Hash](https://encodeall.github.io/shake_128_checksum.html): This SHAKE128 online tool helps you calculate local or remote file hash by SHAKE128 without uploading file. Free, fast and private: runs in your browser.
+- [SHAKE256](https://encodeall.github.io/shake_256.html): This SHAKE256 online tool helps you calculate hash from string or binary. You can input UTF-8, UTF-16, Hex to SHAKE256. Free, fast and private: runs in your browser.
+- [SHAKE256 File Hash](https://encodeall.github.io/shake_256_checksum.html): This SHAKE256 online tool helps you calculate local or remote file hash by SHAKE256 without uploading file. Free, fast and private: runs in your browser.
+- [Syntax Highlight](https://encodeall.github.io/syntax_highlight.html): This syntax highlight online tool helps you highlight your code. Supports many languages such as JavaScript, C++, C#, Java... and so on.
+- [Unix Timestamp Converter](https://encodeall.github.io/timestamp_converter.html): Convert Unix epoch timestamps (seconds, milliseconds, microseconds) to human-readable dates in UTC and local time, and dates back to timestamps.
+- [URL Decode](https://encodeall.github.io/url_decode.html): This URL decode online tool helps you decode percent-encoding string to URL. Free, fast and private: runs in your browser.
+- [URL Encode](https://encodeall.github.io/url_encode.html): This URL encode online tool helps you encode URL to percent-encoding string. Free, fast and private: runs in your browser.
+- [UUID Generator](https://encodeall.github.io/uuid_generator.html): Generate random UUID v4 and time-ordered UUID v7 (GUID) values in bulk. Free, secure and private: runs in your browser. Free, fast and private: runs in your browser.
+- [Word Counter](https://encodeall.github.io/word_counter.html): Count words, characters, sentences and paragraphs as you type, with reading time and keyword density. Free and private. Free, fast and private: runs in your browser.
+- [XML Formatter](https://encodeall.github.io/xml/formatter/): This free online XML formatter helps you beautify your XML string and make it more readable. You can choose the indentation level and characters.
+- [XML Minifier](https://encodeall.github.io/xml/minifier/): This free online XML minifier helps you minify your XML string and make it more cleaner. It can remove indentation, new lines and comments to reduce size.
+
+## About
+
+- [About](https://encodeall.github.io/about.html)
+- [Privacy Policy](https://encodeall.github.io/privacy.html)

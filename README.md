@@ -1,8 +1,8 @@
-# Online Tools
+# EncodeAll
 
-Please go to [Online Tools](https://encodeall.github.io/)
+Free online hash, encoding and developer tools at https://encodeall.github.io/.
+All tools run locally in the browser.
 
-## Contact
+Based on the open-source [online-tools](https://github.com/emn178/online-tools) project by emn178 (MIT License).
 
-The project's website is located at https://github.com/emn178/online-tools  
-Author: emn178@gmail.com
+Report bugs or request tools: https://github.com/encodeall/encodeall.github.io/issues

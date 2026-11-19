@@ -1,0 +1,12 @@
+{
+  "name": "EncodeAll – Free Online Developer Tools",
+  "short_name": "EncodeAll",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/images/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/images/logo.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
